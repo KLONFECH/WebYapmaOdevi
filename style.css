@@ -1,0 +1,230 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    margin: auto;
+    width: 2000px;
+    min-height: 100vh;
+}
+.topbar {
+    width: 100%;
+    justify-content: space-between;
+    height: 100px;
+    background-color: azure;
+    display: flex;
+    align-items: flex-end;
+}
+.Baslik {
+    font-size: 35px;
+    padding-left: 100px;
+    color: teal;
+    padding-bottom: 30px;
+}
+.menu ul li {
+    display: inline-block;
+    margin: 0px 20px;
+    display: flex-end;
+}
+.menu ul {
+    padding-bottom: 15px;
+    padding-right: 100px;
+}
+.menu ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 21px;
+}
+.menu ul li a:hover,
+a.active {
+    border-bottom: 4px solid rgb(137, 79, 190);
+    padding: 5px;
+    border-radius: 16px;
+    color: #5b5deb ;
+    font-size: 24px;
+}
+.courses {
+    background-color: green;
+    width: 100%;
+    height: 200px;
+}
+.Baslik {
+    font-size: 40px;
+    display: flex;
+    color: rgb(15, 148, 26);
+    justify-content: center;
+    padding-bottom: 14px;
+    padding-top: 30px;
+}
+.yazi {
+    justify-content: center;
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+}
+.bottom {
+    width: 1570px;
+    height: 570px;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    padding-top: 70px;
+    margin: auto;
+}
+.WD {
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+}
+.webDevelopment {
+    margin-top: 12px;
+    padding: 11px;
+    margin-left: 16px;
+    color: azure;
+    width: 145px;
+    background-color: rgb(68, 190, 98);
+}
+.webParasi {
+    margin-bottom: 8px;
+    margin-right: 16px;
+    font-size: 23px;
+}
+.webSayfasi {
+    align-items: flex-end;
+    justify-content: space-between;
+    display: flex;
+}
+.webSD {
+    margin-left: 17px;
+    font-size: 26px;
+    margin-top: 14px;
+}
+.webText {
+    margin-top: 5px;
+    margin-left: 17px;
+}
+.userP img {
+    width: 64px;
+    margin-top: 24px;
+    height: 64px;
+    vertical-align: middle;
+    border-radius: 50%;
+    margin-left: 17px;
+}
+.wdUser {
+    align-items: flex-end;
+    display: flex;
+} 
+.name {
+    font-size: 22px;
+    padding-left: 11px;
+    padding-bottom: 19px;
+    color: cadetblue;
+}
+.SearchEngineOptimization {
+    width: 500px;
+}
+.SearchEngineOptimizationDevelopment {
+    margin-left: 16px;
+    margin-top: 12px;
+    padding: 11px;
+    width: 77px;
+    color: azure;
+    background-color: rgb(68, 190, 98);
+}
+.seoMoney {
+    margin-bottom: 8px;
+    margin-right: 16px;
+    font-size: 23px;
+}
+.seo {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.seoSD {
+    font-size: 26px;
+    margin-left: 17px;
+    margin-top: 14px;
+}
+.seoText {
+    margin-top: 5px;
+    margin-left: 17px;
+}
+.seoUserP img {
+    vertical-align: middle;
+    height: 64px;
+    width: 64px;
+    margin-left: 17px;
+    margin-top: 24px;
+    border-radius: 50%;
+}
+.seoUser {
+    display: flex;
+    align-items: flex-end;
+} 
+.name {
+    padding-bottom: 19px;
+    padding-left: 11px;
+    font-size: 22px;
+    color: cadetblue;
+}
+.CW {
+    width: 500px;
+}
+.cwD {
+    margin-left: 16px;
+    width: 64px;
+    padding: 11px;
+    margin-top: 12px;
+    color: azure;
+    background-color: rgb(68, 190, 98);
+}
+.cwMoney {
+    margin-right: 16px;
+    margin-bottom: 8px;
+    font-size: 23px;
+}
+.cw {
+    justify-content: space-between;
+    display: flex;
+    align-items: flex-end;
+}
+.cwSD {
+    font-size: 26px;
+    margin-top: 14px;
+    margin-left: 17px;
+}
+.cwText {
+    margin-top: 5px;
+    margin-left: 17px;
+}
+.YuvarlakUc img {
+    vertical-align: middle;
+    margin-left: 17px;
+    height: 64px;
+    border-radius: 50%;
+    margin-top: 24px;
+    width: 64px;
+}
+.FotoUcuncuAdam{
+    align-items: flex-end;
+    display: flex;
+} 
+.name1 {
+    padding-left: 11px;
+    padding-bottom: 19px;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+}
+.name2 {
+    padding-left: 11px;
+    padding-bottom: 19px;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+}
+.name3 {
+    padding-left: 11px;
+    padding-bottom: 19px;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+}
